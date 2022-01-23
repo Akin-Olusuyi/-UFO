@@ -10,4 +10,4 @@ The website is designe of the website allow for a relative ease of use. One can 
 
 Here is a screenshot of the websites 
 
-<img src=
+<img src=https://github.com/Akin-Olusuyi/-UFO/blob/main/static/Website%20screenshot.png>
